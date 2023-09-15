@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: bentham;
+    background-color: #f8f7f3;
+    color: #444d46;
+}
+.form{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 30px;
+    align-items: center;
+    font-size: 20px;
+}
+.signupform{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.name{
+    font-size: 15px;
+    color: #444d46;
+}
+.signupform form{
+    margin-top: 10px;
+}
+.email{
+    font-size: 15px;
+    color: #444d46;
+    margin-top: 20px;
+}
+.email form{
+    margin-top: 10px;
+}
+.wdhu{
+    margin-top: 30px;
+}
+
+.genderandyear{
+    margin-top: 30px;
+    display: flex;
+}
+.gender input{
+    margin-top: 10px;
+}
+.year{
+    margin-left: 30px;
+}
